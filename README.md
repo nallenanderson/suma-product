@@ -6,14 +6,7 @@ A comprehensive product development framework and operational system for buildin
 
 The SUMA Product Operating System defines the key processes and artifacts that drive product excellence across our portfolio of business software companies. This system provides a structured, repeatable approach to product development that balances innovation with the reliability and compliance requirements critical to financial software.
 
-## What is SUMA?
-
-SUMA represents the unified product methodology across our family of companies:
-- **Nubox** - ERP and business management solutions
-- **Colppy** - Payroll and HR management platform  
-- **Bind ERP** - Comprehensive enterprise resource planning
-
-## Core Framework: The 4D Process
+## Core Framework: [The 4D Process](./processes/4d-process.md)
 
 Our product development follows a structured 4-phase approach designed specifically for SMB financial software:
 
@@ -38,7 +31,7 @@ Our product development follows a structured 4-phase approach designed specifica
 
 - **Agile Development:** Sprint planning, daily standups, retrospectives
 - **Quality Assurance:** Automated testing, manual testing, security testing
-- **Integration Testing:** ERP/payroll system integration validation
+- **Integration Testing:** System integration validation
 - **Key Artifact:** [Development Documentation](./artifacts/03_development.md)
 
 ### 📦 Phase 4: Delivery (2-4 weeks)
@@ -51,6 +44,13 @@ Our product development follows a structured 4-phase approach designed specifica
 
 ## Strategic Planning & Roadmaps
 
+### [Roadmap Management Process](./processes/roadmaps.md)
+Standardized framework for strategic planning across all companies:
+- **Dual-Horizon Planning:** 12-month strategic + quarterly tactical roadmaps
+- **RICE Prioritization:** Reach, Impact, Confidence, Effort scoring model
+- **Cross-Company Alignment:** Resource sharing and synergy identification
+- **Planning Calendar:** Annual and quarterly planning cycles
+
 ### [Annual Strategic Roadmap](./artifacts/annual_roadmap.md)
 12-month rolling strategic plan that aligns product development with business objectives:
 - **Strategic Themes:** AI-powered automation, compliance excellence, platform modernization
@@ -59,18 +59,11 @@ Our product development follows a structured 4-phase approach designed specifica
 - **Cross-Quarter Dependencies:** Critical path planning and milestone tracking
 
 ### [Quarterly Detailed Roadmap](./artifacts/quarterly_roadmap.md)
-13-week execution plan with sprint-level detail:
+12-week execution plan with sprint-level detail:
 - **Epic Breakdown:** Feature specifications with story points and acceptance criteria
-- **Sprint Planning Matrix:** 6.5 sprints with capacity allocation and focus areas
+- **Sprint Planning Matrix:** 6 sprints with capacity allocation and focus areas
 - **Risk Assessment:** Technical, market, and resource risk mitigation strategies
 - **Success Metrics:** Specific KPIs and measurement frameworks
-
-### [Roadmap Management Process](./processes/roadmaps.md)
-Standardized framework for strategic planning across all companies:
-- **Dual-Horizon Planning:** 12-month strategic + quarterly tactical roadmaps
-- **RICE Prioritization:** Reach, Impact, Confidence, Effort scoring model
-- **Cross-Company Alignment:** Resource sharing and synergy identification
-- **Planning Calendar:** Annual and quarterly planning cycles
 
 ## Quality & Operations Management
 
@@ -161,14 +154,13 @@ This operating system is designed to evolve with our business needs. To contribu
 1. Follow the existing structure and naming conventions
 2. Ensure all templates include clear instructions and examples
 3. Maintain consistency with our SMB financial software focus
-4. Update related processes when making changes
+4. Update related processes when making changes by submitting a pull request to this repo
 
 ## Support
 
 For questions about the SUMA Product Operating System:
 - Review the [4D Process Guide](./processes/d4-process.md) for detailed methodology
 - Check specific artifact templates for implementation guidance
-- Contact the Product Operations team for process improvements
 
 ---
 
