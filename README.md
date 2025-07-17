@@ -6,9 +6,9 @@ A comprehensive product development framework and operational system for buildin
 
 The SUMA Product Operating System defines the key processes and artifacts that drive product excellence across our portfolio of business software companies. This system provides a structured, repeatable approach to product development that balances innovation with the reliability and compliance requirements critical to financial software.
 
-## Core Framework: [The 4D Process](./processes/4d-process.md)
+## Core Framework: [The 4D Process](./processes/4d_process.md)
 
-Our product development follows a structured 4-phase approach designed specifically for SMB financial software:
+Our product development follows a structured 4-phase approach designed specifically for SMB financial software. The following section breaks down our main phases. Timelines are rough estimates and parts of the **Definition** and **Development** process can run in parallel:
 
 ### 🎯 Phase 1: Discovery (2-4 weeks)
 **Objective:** Validate market problems and identify opportunities
@@ -16,7 +16,7 @@ Our product development follows a structured 4-phase approach designed specifica
 - **Market Research:** Competitive analysis, industry trends, regulatory requirements
 - **Customer Research:** User interviews, surveys, analytics review  
 - **Problem Validation:** Evidence gathering, hypothesis formation
-- **Key Artifact:** [Problem Statement Document](./artifacts/01_discovery.md)
+- **Key Artifact:** [Discovery Document](./artifacts/01_discovery.md)
 
 ### 📋 Phase 2: Definition (3-5 weeks)
 **Objective:** Define solution scope and technical approach
@@ -24,7 +24,7 @@ Our product development follows a structured 4-phase approach designed specifica
 - **Solution Design:** Feature definition, user story creation
 - **Technical Planning:** Architecture review, feasibility assessment
 - **Resource Planning:** Team allocation, timeline estimation
-- **Key Artifact:** [Product Requirements Document](./artifacts/02_definition.md)
+- **Key Artifact:** [Definition Document](./artifacts/02_definition.md)
 
 ### 🚀 Phase 3: Development (2-8 weeks)
 **Objective:** Build and test the solution
@@ -67,7 +67,7 @@ Standardized framework for strategic planning across all companies:
 
 ## Quality & Operations Management
 
-### [Quality & Bug Management Process](./processes/bug-management.md)
+### [Quality & Bug Management Process](./processes/bug_management.md)
 Comprehensive quality assurance framework for financial software:
 - **Bug Classification:** P0 (Critical), P1 (Important), P2 (Minor) with SLAs
 - **Quality Standards:** 99.95% accuracy for financial calculations, 99.9% uptime
@@ -109,9 +109,9 @@ product-ops/
 │   ├── annual_roadmap.md        # 12-month strategic roadmap template
 │   └── quarterly_roadmap.md     # 13-week execution roadmap template
 ├── processes/                    # Operational processes
-│   ├── d4-process.md            # Complete 4D process framework
+│   ├── 4d_process.md            # Complete 4D process framework
 │   ├── roadmaps.md              # Strategic planning methodology
-│   ├── bug-management.md        # Quality assurance framework
+│   ├── bug_management.md        # Quality assurance framework
 │   ├── weekly-reporting.md      # Weekly management reporting template
 │   └── weekly-slide.md          # Weekly slide deck template
 └── README.md                    # This file
@@ -121,13 +121,13 @@ product-ops/
 
 ### For New Product Initiatives
 1. **Start with Discovery:** Use the [Problem Statement Template](./artifacts/01_discovery.md) to validate market opportunities
-2. **Follow the 4D Process:** Reference the [Complete Process Guide](./processes/d4-process.md) for detailed methodology
+2. **Follow the 4D Process:** Reference the [Complete Process Guide](./processes/4d_process.md) for detailed methodology
 3. **Plan Strategically:** Use [Annual Roadmap](./artifacts/annual_roadmap.md) for long-term planning
 4. **Execute Tactically:** Use [Quarterly Roadmap](./artifacts/quarterly_roadmap.md) for detailed execution
 
 ### For Ongoing Operations
 1. **Weekly Reporting:** Follow the [Weekly Management Report Template](./processes/weekly-reporting.md)
-2. **Quality Management:** Implement the [Bug Management Process](./processes/bug-management.md)
+2. **Quality Management:** Implement the [Bug Management Process](./processes/bug_management.md)
 3. **Executive Updates:** Use the [Weekly Slide Template](./processes/weekly-slide.md)
 4. **Strategic Planning:** Follow the [Roadmap Management Process](./processes/roadmaps.md)
 
@@ -159,7 +159,7 @@ This operating system is designed to evolve with our business needs. To contribu
 ## Support
 
 For questions about the SUMA Product Operating System:
-- Review the [4D Process Guide](./processes/d4-process.md) for detailed methodology
+- Review the [4D Process Guide](./processes/4d_process.md) for detailed methodology
 - Check specific artifact templates for implementation guidance
 
 ---

@@ -1,11 +1,11 @@
 # Suma 4D Product Process
-**SUMA = Nubox + Colppy + Bind ERP**
+**Our product process for building world-class products for accountants and SMBs**
 
 ---
 
 ## Overview
 
-This playbook establishes our standardized Product methodology across SUMA's companies, designed specifically for building world-class ERP, payroll, and accounting solutions for SMBs. The 4D's framework — **Discovery, Definition, Development, and Delivery** — provides a structured approach that balances innovation with the reliability and compliance requirements critical to financial software.
+This playbook establishes our standardized Product methodology across SUMA's companies, designed specifically for building world-class ERP, payroll, and accounting solutions for SMBs. The 4D Framework — **Discovery, Definition, Development, and Delivery** — provides a structured approach that balances innovation with the reliability and compliance requirements critical to financial software.
 
 **Benefits of the 4D Process:**
 
@@ -16,7 +16,7 @@ Enhanced Quality: Built-in compliance checks and quality gates ensure robust, se
 - **Scalable Growth**: Repeatable processes support our expansion while maintaining product excellence
 - **Risk Mitigation**: Structured validation at each phase reduces technical debt and customer churn
 
-The framework emphasizes early customer validation, technical excellence, and seamless delivery. Each of these items is essential for maintaining our competitive edge in the critical business systems that our customers depend on daily.
+Our framework emphasizes early customer validation, product definition, technical excellence, and impact-focused delivery. Each of these items is essential for maintaining our competitive edge in the critical business systems that our customers depend on daily.
 
 ---
 

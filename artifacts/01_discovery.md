@@ -1,108 +1,55 @@
-# Problem Statement Document Template
-**Discovery Phase - Core Artifact**
+# Discovery Document Template
+**Discovery Phase - Core Artifact** - [Example Document](./examples/01_boleta_discovery.md)
 
 ---
 
 ## Document Information
 - **Project Name:** [Enter project/initiative name]
-- **Document Owner:** [Product Manager Name]
-- **UX Research Lead:** [UX Researcher Name]
+- **Owner:** [Product Manager/UX Lead Name]
 - **Created Date:** [Date]
-- **Last Updated:** [Date]
-- **Review Status:** [Draft/Under Review/Approved]
+- **Status:** [Draft/Validated/Approved]
 
 ---
 
-## Executive Summary
-*[2-3 sentences summarizing the validated problem, target market, and business opportunity]*
+## Problem & Opportunity (2-Minute Summary)
 
-**Problem Statement:** [One clear sentence defining the core problem we're solving]
+**Problem Statement:** [One sentence defining the core problem]
 
-**Target Market:** [Primary customer segment and size]
+**Target Customer:** [Primary segment - be specific: "SMBs with 10-50 employees using manual payroll"]
 
-**Business Impact:** [Expected revenue/growth impact and timeline]
+**Business Impact:** [Expected ARR impact: $X over Y months]
 
----
-
-## 1. Market Context & Opportunity
-
-### 1.1 Market Size & Trends
-- **Total Addressable Market (TAM):** $[X] million/billion
-- **Serviceable Addressable Market (SAM):** $[X] million
-- **Serviceable Obtainable Market (SOM):** $[X] million
-- **Market Growth Rate:** [X]% annually
-- **Key Market Drivers:** 
-  - [Driver 1: e.g., regulatory changes, digital transformation]
-  - [Driver 2: e.g., remote work adoption, compliance requirements]
-  - [Driver 3: e.g., SMB growth, automation needs]
-
-### 1.2 Competitive Landscape
-| Competitor | Market Share | Key Strengths | Key Weaknesses | Our Advantage |
-|------------|--------------|---------------|----------------|---------------|
-| [Competitor 1] | [X]% | [Strength] | [Weakness] | [How we're better] |
-| [Competitor 2] | [X]% | [Strength] | [Weakness] | [How we're better] |
-| [Competitor 3] | [X]% | [Strength] | [Weakness] | [How we're better] |
-
-### 1.3 Regulatory & Compliance Factors
-- **Current Regulations:** [List relevant regulations affecting SMB ERP/payroll]
-- **Upcoming Changes:** [Timeline and impact of regulatory changes]
-- **Compliance Requirements:** [Security, data privacy, financial reporting standards]
+**Confidence Level:** [High/Medium/Low] - [Brief reasoning]
 
 ---
 
-## 2. Customer Research Insights
+## Validation Evidence
 
-### 2.1 Research Methodology
-- **Interview Count:** [X] customer interviews conducted
-- **Survey Responses:** [X] responses from [target segment]
-- **Observation Sessions:** [X] workflow observation sessions
-- **Analytics Review:** [Date range] of customer usage data analyzed
+### Customer Evidence (Minimum 5 interviews)
+**Research Done:**
+- [X] customer interviews ([date range])
+- [X] usage data analyzed ([key finding])
+- [X] support ticket review ([trend identified])
 
-### 2.2 Target Customer Segments
+**Key Findings:**
+1. **[Pain Point 1]:** [X]% of customers experience this [frequency]
+2. **[Pain Point 2]:** Costs customers average $[X]/month in [time/money]
+3. **[Solution Interest]:** [X] customers would pay $[Y] for solution
 
-#### Primary Segment: [Segment Name]
-- **Company Size:** [Employee count, revenue range]
-- **Industry Focus:** [Primary industries]
-- **Current Pain Points:**
-  1. [Pain point 1 with frequency/impact data]
-  2. [Pain point 2 with frequency/impact data]
-  3. [Pain point 3 with frequency/impact data]
-- **Current Solutions:** [What they use today and limitations]
-- **Decision Makers:** [Roles involved in purchase decisions]
-- **Budget Range:** $[X] - $[Y] annually
+**Best Customer Quote:**
+> "[Most compelling quote showing pain/willingness to pay]"
+> - [Customer Name, Title, Company Size]
 
-#### Secondary Segment: [Segment Name]
-- **Company Size:** [Employee count, revenue range]
-- **Industry Focus:** [Primary industries]
-- **Key Differences:** [How this differs from primary segment]
-
-### 2.3 Customer Journey Analysis
-```
-Current State Journey:
-[Awareness] → [Consideration] → [Evaluation] → [Purchase] → [Implementation] → [Usage] → [Renewal]
-
-Pain Points by Stage:
-- Awareness: [Specific challenges]
-- Evaluation: [Specific challenges]
-- Implementation: [Specific challenges]
-- Usage: [Specific challenges]
-```
-
-### 2.4 Key Customer Quotes
-> "[Verbatim customer quote highlighting the pain point]"
-> - [Customer Title, Company Size, Industry]
-
-> "[Verbatim customer quote about current solution limitations]"
-> - [Customer Title, Company Size, Industry]
-
-> "[Verbatim customer quote about desired solution]"
-> - [Customer Title, Company Size, Industry]
+### Market Reality Check
+**Competitors:** [Top 2-3 competitors and their key weakness we can exploit]
+**Market Size:** [TAM if known or best guess]
+**Regulatory:** [Any compliance requirements or "None"]
 
 ---
 
-## 3. Validated Problem Definition
+## Validated Problem Definition
 
-### 3.1 Core Problem Statement
+### Core Problem Statement
 **Problem:** [Clear, specific problem statement]
 
 **Who Has This Problem:** [Target customer description]
@@ -111,7 +58,7 @@ Pain Points by Stage:
 
 **Current Impact:** [Quantified business impact - time, money, efficiency]
 
-### 3.2 Problem Validation Evidence
+###  Problem Validation Evidence
 - **Quantitative Evidence:**
   - [X]% of surveyed customers report this problem
   - Average time lost per week: [X] hours
@@ -123,7 +70,7 @@ Pain Points by Stage:
   - Consistent themes across interviews: [theme 1], [theme 2]
   - Observed workflows confirm inefficiencies in [specific areas]
 
-### 3.3 Problem Prioritization
+### Problem Prioritization
 **Frequency:** [How often this problem occurs - Daily/Weekly/Monthly]
 
 **Impact:** [High/Medium/Low business impact when problem occurs]
@@ -134,101 +81,66 @@ Pain Points by Stage:
 
 ---
 
-## 4. Business Case & Opportunity
+## Business Case (One-Page)
 
-### 4.1 Revenue Opportunity
-- **Customer Acquisition:** [X] new customers in Year 1
-- **Revenue Per Customer:** $[X] annually
-- **Customer Lifetime Value:** $[X]
-- **Total Revenue Opportunity:** $[X] over [timeframe]
+### Revenue Opportunity
+- **Target Customers:** [X] customers in Year 1
+- **Revenue per Customer:** $[X] annually
+- **Total ARR Opportunity:** $[X] 
+- **Investment Required:** $[X] (development cost)
+- **Payback Period:** [X] months
 
-### 4.2 Strategic Alignment
-- **Company OKRs Supported:** [List relevant OKRs]
-- **Product Roadmap Fit:** [How this aligns with current strategy]
-- **Competitive Advantage:** [How this differentiates us]
-
-### 4.3 Investment Requirements
-- **Development Cost:** $[X] (estimated from engineering)
-- **Time to Market:** [X] months
-- **Additional Resources:** [Sales, support, marketing needs]
-- **ROI Timeline:** Break-even in [X] months
+### Strategic Fit
+**Company Goals Supported:** [1-2 key OKRs this supports]
+**Roadmap Alignment:** [How this fits current strategy - one sentence]
+**Competitive Advantage:** [Our unique differentiator - one sentence]
 
 ---
 
-## 5. Success Metrics & KPIs
+## Success Metrics & Risks
 
-### 5.1 Leading Indicators
-- **Market Interest:** [X] inbound inquiries per month
-- **Customer Validation:** [X]% of surveyed customers express interest
-- **Competitive Wins:** [X]% win rate in competitive deals
+### Success Criteria
+**Primary Metric:** [Main KPI - be specific: "50% of target customers adopt within 60 days"]
+**Revenue Goal:** $[X] incremental ARR by [date]
+**Customer Goal:** [X] new customers or [Y]% retention improvement
 
-### 5.2 Business Metrics
-- **Revenue Impact:** $[X] incremental revenue in Year 1
-- **Customer Acquisition:** [X] new customers
-- **Customer Retention:** [X]% improvement in retention
-- **Market Share:** [X]% increase in target segment
-
-### 5.3 Product Metrics
-- **Adoption Rate:** [X]% of customers use feature within 30 days
-- **Usage Frequency:** [X] sessions per user per month
-- **Customer Satisfaction:** [X] NPS score improvement
-- **Support Reduction:** [X]% decrease in related support tickets
+### Top 3 Risks
+1. **[Risk 1]:** [Impact: High/Med/Low] - [One-line mitigation]
+2. **[Risk 2]:** [Impact: High/Med/Low] - [One-line mitigation]  
+3. **[Risk 3]:** [Impact: High/Med/Low] - [One-line mitigation]
 
 ---
 
-## 6. Risks & Mitigation
+## Decision & Next Steps
 
-| Risk Category | Risk Description | Probability | Impact | Mitigation Strategy |
-|---------------|------------------|-------------|---------|-------------------|
-| Market | [e.g., Regulatory changes affect demand] | [High/Med/Low] | [High/Med/Low] | [Specific mitigation plan] |
-| Technical | [e.g., Integration complexity higher than expected] | [High/Med/Low] | [High/Med/Low] | [Specific mitigation plan] |
-| Competitive | [e.g., Major competitor releases similar feature] | [High/Med/Low] | [High/Med/Low] | [Specific mitigation plan] |
-| Customer | [e.g., Customer adoption slower than expected] | [High/Med/Low] | [High/Med/Low] | [Specific mitigation plan] |
+### Recommendation
+**Go/No-Go:** [Clear recommendation with one-sentence reasoning]
 
----
+### Immediate Actions (Next 2 Weeks)
+1. **[Action]** - [Owner] - [Due Date]
+2. **[Action]** - [Owner] - [Due Date]
+3. **[Action]** - [Owner] - [Due Date]
 
-## 7. Next Steps & Recommendations
+### Definition Phase Scope
+**Key Questions to Answer:**
+- [Technical feasibility question]
+- [Resource requirement question]
+- [Customer validation question]
 
-### 7.1 Go/No-Go Recommendation
-**Recommendation:** [Go/No-Go with clear reasoning]
-
-**Confidence Level:** [High/Medium/Low] based on research quality and market validation
-
-### 7.2 Immediate Next Steps
-1. **[Action Item 1]** - Owner: [Name] - Due: [Date]
-2. **[Action Item 2]** - Owner: [Name] - Due: [Date]
-3. **[Action Item 3]** - Owner: [Name] - Due: [Date]
-
-### 7.3 Definition Phase Priorities
-- **Technical Feasibility:** [Key areas to validate in Definition phase]
-- **Resource Requirements:** [Team members needed for Definition phase]
-- **Timeline:** [Target completion date for Definition phase]
+**Timeline:** Start Definition phase by [date]
 
 ---
 
-## 8. Appendices
-
-### Appendix A: Customer Interview Summary
-[Detailed notes from customer interviews]
-
-### Appendix B: Market Research Data
-[Charts, graphs, and detailed market analysis]
-
-### Appendix C: Competitive Analysis Details
-[Detailed competitive feature comparison and analysis]
-
-### Appendix D: Survey Results
-[Raw survey data and analysis]
+## Appendix: Supporting Data
+*[Keep all detailed research, competitive analysis, and customer interview notes here]*
 
 ---
 
-## Document Approval
+## Quick Approval
+| Role | Name | Approval | Date |
+|------|------|----------|------|
+| Product Lead | [Name] | ✓ Go / ✗ No-Go | [Date] |
+| Engineering Lead | [Name] | ✓ Go / ✗ No-Go | [Date] |
+| Business Owner | [Name] | ✓ Go / ✗ No-Go | [Date] |
 
-| Role | Name | Signature | Date |
-|------|------|-----------|------|
-| UX Research Lead | [Name] | [Approval] | [Date] |
-| Product Manager | [Name] | [Approval] | [Date] |
-| Engineering Lead | [Name] | [Approval] | [Date] |
-| Head of Product | [Name] | [Approval] | [Date] |
-
-**Status:** [Approved for progression to Definition Phase]
+**Next Phase:** [Definition starts on date] or [Project shelved - reason]
