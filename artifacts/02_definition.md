@@ -1,5 +1,5 @@
 # Product Definition Document (PDD) Template
-**Definition Phase - Core Artifact** - [Example Document](./examples/01_boleta_definition.md)
+**Definition Phase - Core Artifact** - [Example Document](./examples/02_boleta_definition.md)
 
 ---
 
@@ -82,6 +82,27 @@ Step 1 → Step 2 → Step 3 → Complete
 ## Technical Approach
 
 ### High-Level Architecture
+**System Components:**
+- **Frontend:** [Technology choice - React/Vue/etc.]
+- **Backend:** [API technology - Node.js/Python/etc.]
+- **Database:** [Primary data store - PostgreSQL/MySQL/etc.]
+- **Key Integrations:** [Top 2-3 external systems]
+
+### Critical Technical Decisions
+**Decision 1:** [Technology/approach choice] - [Why chosen]
+**Decision 2:** [Architecture pattern] - [Why chosen]
+**Decision 3:** [Integration method] - [Why chosen]
+
+### Performance & Security Basics
+**Performance:** [Key requirement - e.g., "<2 second response time"]
+**Security:** [Key requirement - e.g., "AES-256 encryption for financial data"]
+**Compliance:** [Key requirement - e.g., "SOC 2 compliance maintained"]
+
+---
+
+## Security Considerations
+
+### For Adolfo
 **System Components:**
 - **Frontend:** [Technology choice - React/Vue/etc.]
 - **Backend:** [API technology - Node.js/Python/etc.]

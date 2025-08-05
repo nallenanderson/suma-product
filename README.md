@@ -126,9 +126,9 @@ product-ops/
 4. **Execute Tactically:** Use [Quarterly Roadmap](./artifacts/quarterly_roadmap.md) for detailed execution
 
 ### For Ongoing Operations
-1. **Weekly Reporting:** Follow the [Weekly Management Report Template](./processes/weekly-reporting.md)
+1. **Weekly Reporting:** Follow the [Weekly Management Report Template](./processes/management_process.md)
 2. **Quality Management:** Implement the [Bug Management Process](./processes/bug_management.md)
-3. **Executive Updates:** Use the [Weekly Slide Template](./processes/weekly-slide.md)
+3. **Executive Updates:** Use the [Weekly Slide Template](./processes/weekly_slide.md)
 4. **Strategic Planning:** Follow the [Roadmap Management Process](./processes/roadmaps.md)
 
 ### For Quality Assurance
