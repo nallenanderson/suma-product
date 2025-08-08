@@ -1,5 +1,5 @@
 # Proceso de Delivery
-*Ship to Customers Immediately - Delete, Simplify, Launch*
+*Ship For Impact - Delete, Simplify, Launch - Make Excellent Products!*
 
 ---
 

@@ -1,5 +1,5 @@
 # Proceso de Discovery
-*Basado en Primeros Principios - Eliminar, Simplificar, Optimizar*
+*Eliminar, Simplificar, Optimizar - Make Excellent Products!*
 
 ---
 

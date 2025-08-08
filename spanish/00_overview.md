@@ -1,5 +1,5 @@
 # Proceso 4D SUMA - Resumen Ejecutivo
-*Metodología para construir productos de clase mundial para contadores y PYMEs*
+*This is how we build EXCELLENT products - Delete Steps, Simply Process, Ship For Impact*
 
 ---
 

@@ -1,5 +1,5 @@
 # Proceso de Definition
-*Construir la Solución Mínima Viable - Delete, Simplify, Ship*
+**Quickly Define What Customers Need - Eliminar, Simplificar, Optimizar - Make Excellent Products!**
 
 ---
 

@@ -1,5 +1,5 @@
 # Proceso de Development
-*Ship Working Code Daily - Delete, Simplify, Deliver*
+*Ship Working Code Daily - Eliminar, Simplificar, Optimizar - Make Excellent Products!*
 
 ---
 
