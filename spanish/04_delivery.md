@@ -1,5 +1,5 @@
 # Proceso de Delivery
-*Ship For Impact - Delete, Simplify, Launch - Make Excellent Products!*
+*Ship For Impact - Delete, Simplify, Launch - Make Excellent Products!* [Example Document](./ejemplos/04_delivery_licencias.md)
 
 ---
 

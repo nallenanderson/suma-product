@@ -1,5 +1,5 @@
 # Proceso de Discovery
-*Eliminar, Simplificar, Optimizar - Make Excellent Products!*
+*Eliminar, Simplificar, Optimizar - Make Excellent Products!* [Example Document](./ejemplos/01_discovery_licencias.md)
 
 ---
 

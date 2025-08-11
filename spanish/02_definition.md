@@ -1,5 +1,5 @@
 # Proceso de Definition
-**Quickly Define What Customers Need - Eliminar, Simplificar, Optimizar - Make Excellent Products!**
+**Quickly Define What Customers Need - Eliminar, Simplificar, Optimizar - Make Excellent Products!** [Example Document](./ejemplos/02_definition_licencias.md)
 
 ---
 

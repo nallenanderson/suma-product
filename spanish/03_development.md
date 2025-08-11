@@ -1,5 +1,5 @@
 # Proceso de Development
-*Ship Working Code Daily - Eliminar, Simplificar, Optimizar - Make Excellent Products!*
+*Ship Working Code Daily - Eliminar, Simplificar, Optimizar - Make Excellent Products!* [Example Document](./ejemplos/03_development_licencias.md)
 
 ---
 
